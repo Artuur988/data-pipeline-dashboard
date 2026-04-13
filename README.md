@@ -28,6 +28,7 @@ Projeto end-to-end de dados com foco em engenharia, análise e visualização.
 pip install -r requirements.txt
 python main.py
 streamlit run dashboard/app.py
+````
 
 ## 📌 Objetivo
 
